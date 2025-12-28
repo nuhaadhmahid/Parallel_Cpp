@@ -1,0 +1,16 @@
+.cell-output pre {
+    /* background:              #303030; */
+    background:              rgb(240, 240, 240);
+    border-left:             50px solid rgb(240, 240, 240);
+    padding-top:             5px;
+    padding-bottom:          5px;
+}
+
+.cell-output .sourceCode {
+    background: none;
+    margin-top: 0;
+}
+
+.cell > .sourceCode {
+    background-color: rgb(200, 255, 252);
+}
